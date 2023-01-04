@@ -22,8 +22,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Johns, Smith & Associates
-address_line: Via Ludovisi 39-45, Rome, 54267, Italy
+company_name: Faith and Family Early Learning Center
+address_line: 4232 Boonville Rd, Bryan, TX 77802
 telephone_number: 1.800.245.356
 fax_number: 1.800.245.357
 company_email: hello@LawOffice.org
