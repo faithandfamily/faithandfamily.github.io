@@ -24,13 +24,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Company Information
 company_name: Faith and Family Early Learning Center
 address_line: 4232 Boonville Rd, Bryan, TX 77802
-telephone_number: 1.800.245.356
-fax_number: 1.800.245.357
-company_email: hello@LawOffice.org
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
-
+telephone_number: (979) 774-5300
+fax_number: 
+company_email: jeekinlau@gmail.com
+google_map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13727.867395390593!2d-96.306465!3d30.663062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76661c8a0ea2056!2sFaith%20%26%20Family%20Early%20Learning%20Center!5e0!3m2!1sen!2sus!4v1672879741902!5m2!1sen!2sus
 # Social Link
-facebook_link: http://www.facebook.com
+facebook_link: http://www.facebook.com/faithandfamilyelc/
 twitter_link: http://www.twitter.com
 linkedin_link: http://www.linkedin.com
 googleplus_link: http://plus.google.com
