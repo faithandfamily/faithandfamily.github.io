@@ -30,9 +30,9 @@ company_email: faithandfamilyelc@gmail.com
 google_map: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13727.867395390593!2d-96.306465!3d30.663062!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76661c8a0ea2056!2sFaith%20%26%20Family%20Early%20Learning%20Center!5e0!3m2!1sen!2sus!4v1672879741902!5m2!1sen!2sus
 # Social Link
 facebook_link: http://www.facebook.com/faithandfamilyelc/
-twitter_link: http://www.twitter.com
-linkedin_link: http://www.linkedin.com
-googleplus_link: http://plus.google.com
+twitter_link: 
+linkedin_link: 
+googleplus_link: 
 
 # Build settings
 markdown: kramdown
