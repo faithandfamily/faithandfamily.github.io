@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Business Jekyll Theme
+title: Faith and Family 
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Yet another Jekyll theme. It is designed for business purpose and ported by 
