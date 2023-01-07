@@ -3,9 +3,19 @@ layout: default_style
 permalink: /contact
 published: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HPQV9X70J5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HPQV9X70J5');
+</script>
+
 <div><p>&nbsp<br>
   &nbsp<br>
-  &nbsp<br>
+
 </p></div>
 <!-- Main Container -->
 
@@ -19,12 +29,12 @@ published: true
       <div class="col-lg-4">
         <h4>Find us at:</h4>
 
-        <p class="block-author">{{ site.company_name }}</p>
-        <p>{{ site.address_line }}</p>
-        <p>Phone: {{ site.telephone_number }}</p>
+        <p>{{ site.company_name }}</p>
+        <p>Address: <a href="https://goo.gl/maps/DaqDYzqLqVn7eXnk7">{{ site.address_line }}</a></p>
+        <p>Phone: <a href="tel:9797745300">{{ site.telephone_number }}</a></p>
        
 
-        <em class="block-author">Email: {{ site.company_email }}</em> <br>
+        <p>Email: <a href="mailto:faithandfamilyelc@gmail.com"><em>{{ site.company_email }}</em></a> </p><br>
         <br>
         <!-- p class="lead">Social Link</p><hr>
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
